@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin: 0;
+    height: 100px;
+    padding: 0;
+    width: 380px;
+}
+
+.text-input-label {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.text-input-container {
+    text-align: center;
+}
+
+.text-input {
+    width: 80%;
+    height: 50px;
+}
